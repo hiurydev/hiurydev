@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hiurydev/hiurydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/programing.gif" width="100%" alt="banner" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=root%40hiury%3A~%24+whoami;Tech+Lead+%26+Software+Engineer;Laravel+%E2%80%A2+PHP+%E2%80%A2+Node.js;Building+AI-powered+products+%F0%9F%A4%96" alt="Typing SVG" /></a>
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20RAG-000000?style=for-the-badge&logo=openai&logoColor=39FF14" />
+</p>
+
+</div>
+
+<br/>
+
+```
+$ cat about_me.txt
+```
+
+## 🧑‍💻 About me
+
+- 🔭 Currently working with large-scale SaaS and microservices
+- 🏗️ Experienced with legacy system modernization
+- ☁️ Kubernetes, Docker and CI/CD
+- 🤖 Building AI-powered applications with RAG and LLMs
+- 👨‍💻 Mainly working with PHP/Laravel and Node.js
+
+<br/>
+
+```
+$ ls tech_stack/
+```
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,typescript,mysql,postgres,redis,kafka,docker,kubernetes,git" />
+</p>
+
+<br/>
+
+```
+$ ./deploy.sh --project omnifiles
+```
+
+## 🚀 Projeto em destaque
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🔹 <a href="https://omnifiles.com.br/">Omnifiles</a></h3>
+      <p>Plataforma SaaS construída em Laravel com processamento inteligente de documentos via RAG (Retrieval-Augmented Generation), rodando no Laravel Cloud.</p>
+      <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=39FF14" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14" />
+      <img src="https://img.shields.io/badge/RAG%20%2F%20AI-000000?style=flat-square&logo=openai&logoColor=39FF14" />
+      <img src="https://img.shields.io/badge/Laravel%20Cloud-000000?style=flat-square&logo=laravel&logoColor=39FF14" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+```
+$ nc -lvp 443 --contact
+```
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiury-ronchi/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+  <a href="mailto:hiurydev@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+</p>
