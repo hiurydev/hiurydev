@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%2F%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=39FF14" />
 </p>
 
 </div>
@@ -47,13 +47,13 @@ $ ls tech_stack/
 $ ./deploy.sh --project omnifiles
 ```
 
-## 🚀 Projeto em destaque
+## 🚀 Featured Project
 
 <table>
   <tr>
     <td valign="top">
       <h3>🔹 <a href="https://omnifiles.com.br/">Omnifiles</a></h3>
-      <p>Plataforma SaaS construída em Laravel com processamento inteligente de documentos via RAG (Retrieval-Augmented Generation), rodando no Laravel Cloud.</p>
+      <p>SaaS platform built with Laravel, featuring intelligent document processing powered by RAG (Retrieval-Augmented Generation), running on Laravel Cloud.</p>
       <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=39FF14" />
       <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14" />
       <img src="https://img.shields.io/badge/RAG%20%2F%20AI-000000?style=flat-square&logo=openai&logoColor=39FF14" />
@@ -68,7 +68,7 @@ $ ./deploy.sh --project omnifiles
 $ nc -lvp 443 --contact
 ```
 
-## 📫 Contato
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiury-ronchi/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
