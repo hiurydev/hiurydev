@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/programing.gif" width="100%" alt="banner" />
+<img src="assets/programing.gif" width="60%" alt="banner" />
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20RAG-000000?style=for-the-badge&logo=openai&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=39FF14" />
 </p>
 
 </div>
@@ -38,7 +38,7 @@ $ ls tech_stack/
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,typescript,mysql,postgres,redis,kafka,docker,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,nodejs,typescript,mysql,postgres,redis,kafka,docker,kubernetes,git" />
 </p>
 
 <br/>
